@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# [](#header-1)SIGIR'17 Workshop on Axiomatic Thinking for Information Retrieval and Related Tasks (ATIR)
 
-You can use the [editor on GitHub](https://github.com/Peilin-Yang/atir/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [](#header-2)Introduction
 
-### Markdown
+This is the first workshop on the emerging interdisciplinary research area of applying axiomatic thinking to information retrieval (IR) and related tasks. The workshop aims to help foster collaboration of researchers working on different perspectives of axiomatic thinking and encourage discussion and research on general methodological issues related to applying axiomatic thinking to IR and re lated tasks.
+Please find more information about the motivation and theme of the workshop [here](/main-summ.pdf).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [](#header-2)Organizers
 
-```markdown
-Syntax highlighted code block
+* [Enrique Amigo](http://nlp.uned.es/~enrique/)
+* [Hui Fang](http://www.eecis.udel.edu/~hfang/)
+* [Stefano Mizzaro](http://users.dimi.uniud.it/~stefano.mizzaro/)
+* [ChengXiang Zhai](http://www.cs.uiuc.edu/~czhai/)
 
-# Header 1
-## Header 2
-### Header 3
+#### [](#header-2)References
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Peilin-Yang/atir/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Axiomatic Resource Page](https://www.eecis.udel.edu/~hfang/AX.html)
