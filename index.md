@@ -3,10 +3,12 @@ This is the first workshop on the emerging interdisciplinary research area of ap
 Please find more information about the motivation and theme of the workshop [here](/main-summ.pdf).
 
 ## [](#header-2)Organizers
-* [Enrique Amigo](http://nlp.uned.es/~enrique/)
-* [Hui Fang](http://www.eecis.udel.edu/~hfang/)
-* [Stefano Mizzaro](http://users.dimi.uniud.it/~stefano.mizzaro/)
-* [ChengXiang Zhai](http://www.cs.uiuc.edu/~czhai/)
+
+*   [Enrique Amigo](http://nlp.uned.es/~enrique/)
+*   [Hui Fang](http://www.eecis.udel.edu/~hfang/)
+*   [Stefano Mizzaro](http://users.dimi.uniud.it/~stefano.mizzaro/)
+*   [ChengXiang Zhai](http://www.cs.uiuc.edu/~czhai/)
 
 ## [](#header-2)References
-* [Axiomatic Resource Page](https://www.eecis.udel.edu/~hfang/AX.html)
+
+*   [Axiomatic Resource Page](https://www.eecis.udel.edu/~hfang/AX.html)
